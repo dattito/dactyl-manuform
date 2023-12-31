@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "",
+  "notes": "Mein tolles Layout",
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "handwired/dactyl_manuform/4x6_5",
   "keymap": "dtt",
@@ -55,7 +55,7 @@
       "KC_ENT",
       "KC_BSPC",
       "KC_LGUI",
-      "KC_NO",
+      "KC_LGUI",
       "KC_LCTL"
     ],
     [
@@ -75,10 +75,10 @@
       "KC_EQL",
       "KC_LBRC",
       "KC_LCBR",
-      "LSFT_T(KC_LPRN)",
+      "KC_LPRN",
       "KC_LT",
       "KC_GT",
-      "RSFT_T(KC_RPRN)",
+      "KC_RPRN",
       "KC_RCBR",
       "KC_RBRC",
       "KC_EQL",
@@ -133,8 +133,8 @@
       "KC_DOWN",
       "KC_UP",
       "KC_RGHT",
-      "KC_TRNS",
-      "KC_TRNS",
+      "KC_BRIU",
+      "KC_VOLU",
       "KC_TRNS",
       "KC_EXLM",
       "KC_AT",
@@ -144,13 +144,13 @@
       "KC_CIRC",
       "KC_AMPR",
       "KC_ASTR",
+      "KC_TRNS",
+      "KC_BRID",
       "KC_VOLD",
-      "KC_VOLU",
-      "QK_BOOT",
       "KC_TRNS",
       "KC_TRNS",
       "KC_EQL",
-      "KC_TRNS",
+      "QK_BOOT",
       "KC_TRNS",
       "KC_TRNS",
       "TG(3)",
@@ -215,5 +215,5 @@
       "KC_TRNS"
     ]
   ],
-  "author": ""
+  "author": "Dattito"
 }
