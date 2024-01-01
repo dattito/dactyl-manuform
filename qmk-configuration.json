@@ -50,13 +50,13 @@
       "KC_SPC",
       "MO(1)",
       "KC_ESC",
-      "KC_TAB",
+      "KC_LCTL",
       "MO(2)",
-      "KC_ENT",
+      "KC_TAB",
       "KC_BSPC",
       "KC_LGUI",
       "KC_LGUI",
-      "KC_LCTL"
+      "KC_ENT"
     ],
     [
       "KC_F1",
@@ -81,7 +81,7 @@
       "KC_RPRN",
       "KC_RCBR",
       "KC_RBRC",
-      "KC_EQL",
+      "KC_PLUS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_1",
