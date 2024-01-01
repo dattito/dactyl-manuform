@@ -31,7 +31,7 @@
       "KC_O",
       "KC_I",
       "KC_QUOT",
-      "KC_RALT",
+      "KC_ESC",
       "KC_Z",
       "KC_X",
       "KC_M",
@@ -49,7 +49,7 @@
       "KC_EQL",
       "KC_SPC",
       "MO(1)",
-      "KC_ESC",
+      "KC_LCTL",
       "KC_LCTL",
       "MO(2)",
       "KC_TAB",
@@ -108,7 +108,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS"
+      "KC_RALT"
     ],
     [
       "KC_TRNS",
